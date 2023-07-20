@@ -7,18 +7,18 @@
         "link": "https://kazan.hh.ru/vacancy/83453023?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Аналитик поисковых алгоритмов (SaaS, AI продукт)",
-        "salary_min": 70000,
-        "salary_max": 120000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83169694?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "Middle Python developer (офис)",
         "salary_min": 200000,
         "salary_max": null,
         "currency": "₽",
         "link": "https://kazan.hh.ru/vacancy/79828667?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Аналитик поисковых алгоритмов (SaaS, AI продукт)",
+        "salary_min": 70000,
+        "salary_max": 120000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83169694?from=vacancy_search_list&query=python"
     },
     {
         "name": "Python Middle разработчик",
@@ -40,20 +40,6 @@
         "salary_max": 260000,
         "currency": "₽",
         "link": "https://kazan.hh.ru/vacancy/81489622?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Разработчик Python",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83198538?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Python AI Developer",
-        "salary_min": 90000,
-        "salary_max": 150000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/82993911?from=vacancy_search_list&query=python"
     },
     {
         "name": "Инженер-программист (Python)",
@@ -91,6 +77,27 @@
         "link": "https://kazan.hh.ru/vacancy/82095499?from=vacancy_search_list&query=python"
     },
     {
+        "name": "Python developer",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83529550?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Python Developer",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83540822?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Python Developer",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83547654?from=vacancy_search_list&query=python"
+    },
+    {
         "name": "Python разработчик",
         "salary_min": null,
         "salary_max": null,
@@ -126,6 +133,13 @@
         "link": "https://kazan.hh.ru/vacancy/81241313?from=vacancy_search_list&query=python"
     },
     {
+        "name": "Разработчик Python",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83198538?from=vacancy_search_list&query=python"
+    },
+    {
         "name": "Python developer (от мидла и выше)",
         "salary_min": null,
         "salary_max": null,
@@ -154,18 +168,25 @@
         "link": "https://kazan.hh.ru/vacancy/82144208?from=vacancy_search_list&query=python"
     },
     {
+        "name": "Ведущий программист (Python)",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83015671?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Senior Python-разработчик",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/80662974?from=vacancy_search_list&query=python"
+    },
+    {
         "name": "Data-инженер",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/81979259?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Инженер поддержки систем мониторинга",
-        "salary_min": 77000,
-        "salary_max": null,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83124857?from=vacancy_search_list&query=python"
     },
     {
         "name": "DevOps инженер в отдел поддержки (удаленно)",
@@ -175,11 +196,11 @@
         "link": "https://kazan.hh.ru/vacancy/82792728?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Инженер компьютерного зрения/Программист С++",
-        "salary_min": 170000,
-        "salary_max": null,
+        "name": "DevOps engineer",
+        "salary_min": null,
+        "salary_max": 120000,
         "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83454961?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/83220543?from=vacancy_search_list&query=python"
     },
     {
         "name": "SRE Systems Engineer Data Platform",
@@ -189,25 +210,11 @@
         "link": "https://kazan.hh.ru/vacancy/82772742?from=vacancy_search_list&query=python"
     },
     {
-        "name": "DevOps engineer (Administrator)",
-        "salary_min": null,
-        "salary_max": 120000,
+        "name": "Инженер компьютерного зрения/Программист С++",
+        "salary_min": 170000,
+        "salary_max": null,
         "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83220543?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Middle Python Developer",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83279673?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Инженер DevOps",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/82009280?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/83454961?from=vacancy_search_list&query=python"
     },
     {
         "name": "Аналитик данных",
@@ -215,13 +222,6 @@
         "salary_max": null,
         "currency": "₽",
         "link": "https://kazan.hh.ru/vacancy/83221914?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Преподаватель программирования / робототехники",
-        "salary_min": 30000,
-        "salary_max": 70000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83438284?from=vacancy_search_list&query=python"
     },
     {
         "name": "SRE Engineer (Linux Infrastructure Development)",
@@ -245,18 +245,18 @@
         "link": "https://kazan.hh.ru/vacancy/83445142?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Аналитик сопровождения",
+        "name": "Преподаватель программирования / робототехники",
+        "salary_min": 30000,
+        "salary_max": 70000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83438284?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "DevOps-инженер",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/82125609?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Продуктовый аналитик, удалённо из РФ",
-        "salary_min": 200000,
-        "salary_max": null,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83456848?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/83564076?from=vacancy_search_list&query=python"
     },
     {
         "name": "Аналитик",
@@ -266,18 +266,18 @@
         "link": "https://kazan.hh.ru/vacancy/82547794?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Продуктовый аналитик",
+        "name": "Аналитик медиаинвестиций",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/80744811?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/83533672?from=vacancy_search_list&query=python"
     },
     {
-        "name": "ГИС-инженер/Специалист по внедрению ГИС",
-        "salary_min": null,
+        "name": "Frontend middle developer (офис)",
+        "salary_min": 130000,
         "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/79971832?from=vacancy_search_list&query=python"
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83562969?from=vacancy_search_list&query=python"
     },
     {
         "name": "Python Senior developer",
@@ -294,60 +294,11 @@
         "link": "https://kazan.hh.ru/vacancy/82429203?from=vacancy_search_list&query=python"
     },
     {
-        "name": "DevOps инженер (Брокерский бизнес)",
+        "name": "Руководитель группы аналитики",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83423267?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Старший системный администратор Linux",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/76974868?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Linux DevOps инженер",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83322824?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Аналитик (Web-аналитик)",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83401959?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Manual QA-инженер (backend) в команду Навигации",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/79898669?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "DevOps / devOps-инженер",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83276402?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Ведущий системный администратор",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83429786?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "DevOps инженер (БКИ)",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83342889?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/82528591?from=vacancy_search_list&query=python"
     },
     {
         "name": "Системный аналитик Naumen Contact Center",
@@ -357,11 +308,32 @@
         "link": "https://kazan.hh.ru/vacancy/82883066?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Senior Data Engineer",
+        "name": "Бизнес-аналитик",
+        "salary_min": 130000,
+        "salary_max": null,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/80895708?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Ведущий системный администратор",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/80307038?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/83429786?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Эксперт (Цифровые технологии), г. Тобольск",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83553481?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Linux DevOps инженер",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83322824?from=vacancy_search_list&query=python"
     },
     {
         "name": "Преподаватель робототехники",
@@ -371,25 +343,32 @@
         "link": "https://kazan.hh.ru/vacancy/82952812?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Ведущий инженер по сопровождению ИС",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83389924?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Ведущий C++, Python-программист",
-        "salary_min": 230000,
-        "salary_max": 340000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83154282?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "Systems Engineer & IT Administrator",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/82573991?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "DevOps / devOps-инженер",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83276402?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Аналитик сопровождения",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/82125609?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Инженер DevOps",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/82009280?from=vacancy_search_list&query=python"
     },
     {
         "name": "BIM Координатор (Конструктивные решения)",
@@ -399,46 +378,74 @@
         "link": "https://kazan.hh.ru/vacancy/76162174?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Аналитик данных",
+        "name": "DevOps инженер (БКИ)",
         "salary_min": null,
-        "salary_max": 250000,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83342889?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Руководитель направления по контролю за операциями на финансовых рынках",
+        "salary_min": 130000,
+        "salary_max": null,
         "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83384139?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/83570628?from=vacancy_search_list&query=python"
     },
     {
-        "name": "TechLead команды frontend (JS)",
+        "name": "Senior Data Engineer",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/82399012?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/80307038?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Системный администратор",
-        "salary_min": null,
+        "name": "Ведущий инженер АСУ ТП Yokogawa (Centum, Prosafe, Stardom)",
+        "salary_min": 120000,
         "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83214114?from=vacancy_search_list&query=python"
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/78913604?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Руководитель отдела технической документации/Ведущий технический писатель",
+        "name": "Аналитик отдела продаж",
         "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83435282?from=vacancy_search_list&query=python"
+        "salary_max": 58000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/80243008?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Системный Аналитик",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83226761?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Продуктовый аналитик B2B, удаленно на территории РФ",
+        "name": "Продуктовый аналитик, удалённо из РФ",
         "salary_min": 200000,
-        "salary_max": 250000,
+        "salary_max": null,
         "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83402242?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/83456848?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Ведущий C++, Python-программист",
+        "salary_min": 230000,
+        "salary_max": 340000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83154282?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Ведущий инженер по сопровождению ИС",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83389924?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Ведущий инженер АСУ ТП",
+        "salary_min": 110000,
+        "salary_max": 150000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/69316211?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Инженер поддержки систем мониторинга",
+        "salary_min": 77000,
+        "salary_max": null,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83124857?from=vacancy_search_list&query=python"
     },
     {
         "name": "Руководитель группы сетевых инженеров ccnp",
@@ -455,11 +462,39 @@
         "link": "https://kazan.hh.ru/vacancy/83434129?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Руководитель группы аналитики",
+        "name": "Системный администратор",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/82528591?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/83214114?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Руководитель отдела технической документации/Ведущий технический писатель",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83435282?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Менеджер по работе с клиентами / Awake-менеджер",
+        "salary_min": 55000,
+        "salary_max": 75000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/82309551?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Системный Аналитик",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83226761?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Программист 1С",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83542000?from=vacancy_search_list&query=python"
     },
     {
         "name": "Разработчик LuCI WEB-интерфейса для OpenWRT",
@@ -469,18 +504,32 @@
         "link": "https://kazan.hh.ru/vacancy/83118508?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Менеджер проекта",
-        "salary_min": 150000,
-        "salary_max": 320000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/79316843?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "BI analyst (Visiology)",
+        "name": "ГИС-инженер/Специалист по внедрению ГИС",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/80507399?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/79971832?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Старший системный администратор Linux",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/76974868?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Продуктовый аналитик",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/80744811?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "DevOps инженер (Брокерский бизнес)",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83423267?from=vacancy_search_list&query=python"
     },
     {
         "name": "Ведущий программист С++",
@@ -488,13 +537,6 @@
         "salary_max": 300000,
         "currency": "₽",
         "link": "https://kazan.hh.ru/vacancy/83138260?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Java разработчик (Подписка)",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/82979876?from=vacancy_search_list&query=python"
     },
     {
         "name": "Преподаватель робототехники",
@@ -511,18 +553,18 @@
         "link": "https://kazan.hh.ru/vacancy/83132783?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Программист 1С",
-        "salary_min": 150000,
-        "salary_max": null,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83265453?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "Lead Product Analytics",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/83135897?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Программист 1С",
+        "salary_min": 150000,
+        "salary_max": null,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83265453?from=vacancy_search_list&query=python"
     },
     {
         "name": "Инженер по безопасной разработке (AppSec инженер)",
@@ -532,11 +574,18 @@
         "link": "https://kazan.hh.ru/vacancy/83079583?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Стажер по направлению Аналитика и Data Science",
+        "name": "Manual QA-инженер (backend) в команду Навигации",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83362240?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/79898669?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "TechLead команды frontend (JS)",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/82399012?from=vacancy_search_list&query=python"
     },
     {
         "name": "Инженер автоматизации ИТ-инфраструктуры (Linux, Operations)",
@@ -551,13 +600,6 @@
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/83077774?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Ведущий инженер АСУ ТП",
-        "salary_min": 110000,
-        "salary_max": 150000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/69316211?from=vacancy_search_list&query=python"
     },
     {
         "name": "Разработчик встроенного микропрограммного обеспечения",
@@ -581,25 +623,25 @@
         "link": "https://kazan.hh.ru/vacancy/83031045?from=vacancy_search_list&query=python"
     },
     {
-        "name": "DevOps инженер",
+        "name": "Аналитик данных",
         "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/73776674?from=vacancy_search_list&query=python"
+        "salary_max": 250000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83384139?from=vacancy_search_list&query=python"
     },
     {
-        "name": "DevOps инженер (Junior) (удаленно)",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83340631?from=vacancy_search_list&query=python"
+        "name": "Продуктовый аналитик B2B, удаленно на территории РФ",
+        "salary_min": 200000,
+        "salary_max": 250000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83402242?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Site Reliability Engineer Kubernetes (команда ВКонтакте)",
+        "name": "Аналитик (Web-аналитик)",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/82913748?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/83401959?from=vacancy_search_list&query=python"
     },
     {
         "name": "DevOps инженер (Middle)",
@@ -609,25 +651,11 @@
         "link": "https://kazan.hh.ru/vacancy/81314661?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Системный аналитик",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/81899441?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Инженер по тестированию",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83324911?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Системный аналитик DWH/Аналитик",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/81688826?from=vacancy_search_list&query=python"
+        "name": "Менеджер проекта",
+        "salary_min": 150000,
+        "salary_max": 320000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/79316843?from=vacancy_search_list&query=python"
     },
     {
         "name": "Аналитик SOC L2",
@@ -637,11 +665,25 @@
         "link": "https://kazan.hh.ru/vacancy/82574194?from=vacancy_search_list&query=python"
     },
     {
-        "name": "QA mobile / Инженер по тестированию (manual/auto) в Тинькофф Мобильный Банк",
+        "name": "BI analyst (Visiology)",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/76266218?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/80507399?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Java разработчик (Подписка)",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/82979876?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Стажер по направлению Аналитика и Data Science",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83362240?from=vacancy_search_list&query=python"
     },
     {
         "name": "Преподаватель BIG DATA (Data Engineer/Python developer)",
@@ -649,27 +691,6 @@
         "salary_max": 300000,
         "currency": "₽",
         "link": "https://kazan.hh.ru/vacancy/82194960?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "ML-инженер",
-        "salary_min": 150000,
-        "salary_max": 200000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83298060?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Data Engineer",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83297059?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Инженер-программист SE",
-        "salary_min": 170000,
-        "salary_max": 200000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83297661?from=vacancy_search_list&query=python"
     },
     {
         "name": "Аналитик информационной безопасности",
@@ -684,6 +705,20 @@
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/82282273?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/73776674?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "DevOps инженер (Junior) (удаленно)",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83340631?from=vacancy_search_list&query=python"
     },
     {
         "name": "Инженер СУБД",
@@ -714,11 +749,11 @@
         "link": "https://kazan.hh.ru/vacancy/79833953?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Full stack QA engineer",
+        "name": "Site Reliability Engineer Kubernetes (команда ВКонтакте)",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/82976579?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/82913748?from=vacancy_search_list&query=python"
     },
     {
         "name": "Технический архитектор",
@@ -726,6 +761,20 @@
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/82340338?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Системный аналитик",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/81899441?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Инженер по тестированию",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83324911?from=vacancy_search_list&query=python"
     },
     {
         "name": "Специалист по автоматизации и развитию голосовых сервисов",
@@ -742,11 +791,25 @@
         "link": "https://kazan.hh.ru/vacancy/82242079?from=vacancy_search_list&query=python"
     },
     {
+        "name": "Системный аналитик DWH/Аналитик",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/81688826?from=vacancy_search_list&query=python"
+    },
+    {
         "name": "Ведущий инженер (OpenStack/SDN)",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/82176752?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "QA mobile / Инженер по тестированию (manual/auto) в Тинькофф Мобильный Банк",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/76266218?from=vacancy_search_list&query=python"
     },
     {
         "name": "Инженер по сетевой безопасности",
@@ -756,18 +819,32 @@
         "link": "https://kazan.hh.ru/vacancy/82443076?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Ведущий программист (Python)",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83015671?from=vacancy_search_list&query=python"
+        "name": "ML-инженер",
+        "salary_min": 150000,
+        "salary_max": 200000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83298060?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Data engineer",
+        "name": "Middle Python Developer",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/81704792?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/83279673?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Data Engineer",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83297059?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Инженер-программист SE",
+        "salary_min": 170000,
+        "salary_max": 200000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83297661?from=vacancy_search_list&query=python"
     },
     {
         "name": "Консультант 1С (регламентированный учет)",
@@ -775,6 +852,20 @@
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/82230030?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Full stack QA engineer",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/82976579?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Data engineer",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/81704792?from=vacancy_search_list&query=python"
     },
     {
         "name": "Backend разработчик",
@@ -798,13 +889,6 @@
         "link": "https://kazan.hh.ru/vacancy/83199537?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Бизнес-аналитик",
-        "salary_min": 130000,
-        "salary_max": null,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/80895708?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "Инженер по тестированию QA (mobile) в Тинькофф Мобильный Банк",
         "salary_min": null,
         "salary_max": null,
@@ -824,13 +908,6 @@
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/80279646?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Ведущий инженер АСУ ТП Yokogawa (Centum, Prosafe, Stardom)",
-        "salary_min": 120000,
-        "salary_max": null,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/78913604?from=vacancy_search_list&query=python"
     },
     {
         "name": "Data Engineer",
@@ -882,13 +959,6 @@
         "link": "https://kazan.hh.ru/vacancy/83074935?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Инженер по нагрузочному тестированию (API)",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83113342?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "Аналитик",
         "salary_min": null,
         "salary_max": null,
@@ -901,6 +971,13 @@
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/83089916?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Инженер по нагрузочному тестированию (API)",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83113342?from=vacancy_search_list&query=python"
     },
     {
         "name": "Менеджер по датасетам",
@@ -966,18 +1043,18 @@
         "link": "https://kazan.hh.ru/vacancy/82990920?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Ведущий аналитик",
-        "salary_min": 60000,
-        "salary_max": 100000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/80037741?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "Преподаватель онлайн-курсов Python / Scratch / Геймдизайн для детей (групповые занятия)",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/78909741?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Ведущий аналитик",
+        "salary_min": 60000,
+        "salary_max": 100000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/80037741?from=vacancy_search_list&query=python"
     },
     {
         "name": "Разработчик в тестировании / SDET (Python)",
@@ -987,18 +1064,18 @@
         "link": "https://kazan.hh.ru/vacancy/82907885?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Финансовый менеджер (Финансовый блок формата Магнит Косметик)",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/83020374?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "Преподаватель по программированию Scratch, Roblox (Удалённо)",
         "salary_min": null,
         "salary_max": 80000,
         "currency": "₽",
         "link": "https://kazan.hh.ru/vacancy/82934536?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Финансовый менеджер (Финансовый блок формата Магнит Косметик)",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/83020374?from=vacancy_search_list&query=python"
     },
     {
         "name": "Rendering engineer C++ в 3D Карту",
@@ -1029,18 +1106,18 @@
         "link": "https://kazan.hh.ru/vacancy/82923953?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Бизнес-аналитик – Technology FACE (Finance, Analytics and Compliance excellence)",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/82899909?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "PHP-разработчик (Junior)",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/82898757?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Бизнес-аналитик – Technology FACE (Finance, Analytics and Compliance excellence)",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/82899909?from=vacancy_search_list&query=python"
     },
     {
         "name": "Коммерческий аналитик",
@@ -1064,18 +1141,18 @@
         "link": "https://kazan.hh.ru/vacancy/82891830?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Руководитель группы разработки (Team Lead)",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/77224953?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "Ночной специалист службы поддержки с техническими знаниями (Браузер)",
         "salary_min": 18000,
         "salary_max": 45000,
         "currency": "₽",
         "link": "https://kazan.hh.ru/vacancy/79015303?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Руководитель группы разработки (Team Lead)",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/77224953?from=vacancy_search_list&query=python"
     },
     {
         "name": "Ведущий специалист по поддержке ИС",
@@ -1085,11 +1162,11 @@
         "link": "https://kazan.hh.ru/vacancy/82029960?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Педагог дополнительного образования: разработка мобильных приложений, программирование",
-        "salary_min": 50000,
+        "name": "Python/PHP разработчик",
+        "salary_min": 100000,
         "salary_max": null,
         "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/83010561?from=vacancy_search_list&query=python"
+        "link": "https://kazan.hh.ru/vacancy/82856597?from=vacancy_search_list&query=python"
     },
     {
         "name": "Системный администратор Linux",
@@ -1099,18 +1176,18 @@
         "link": "https://kazan.hh.ru/vacancy/78349569?from=vacancy_search_list&query=python"
     },
     {
+        "name": "Педагог дополнительного образования: разработка мобильных приложений, программирование",
+        "salary_min": 50000,
+        "salary_max": null,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/83010561?from=vacancy_search_list&query=python"
+    },
+    {
         "name": "DevOps engineer",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/82796891?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Аналитик sql/oracle",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/81568244?from=vacancy_search_list&query=python"
     },
     {
         "name": "Software Developer in Test (Python)/Software Engineer in Test (Python)",
@@ -1120,18 +1197,18 @@
         "link": "https://kazan.hh.ru/vacancy/82649558?from=vacancy_search_list&query=python"
     },
     {
+        "name": "Аналитик sql/oracle",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/81568244?from=vacancy_search_list&query=python"
+    },
+    {
         "name": "DevOps инженер (Junior)",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/81313866?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Помощник промпт инженера для работы с ChatGpt",
-        "salary_min": 60000,
-        "salary_max": 120000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/82811505?from=vacancy_search_list&query=python"
     },
     {
         "name": "Team Lead Data Platform",
@@ -1148,6 +1225,13 @@
         "link": "https://kazan.hh.ru/vacancy/82665035?from=vacancy_search_list&query=python"
     },
     {
+        "name": "Помощник промпт инженера для работы с ChatGpt",
+        "salary_min": 60000,
+        "salary_max": 120000,
+        "currency": "₽",
+        "link": "https://kazan.hh.ru/vacancy/82811505?from=vacancy_search_list&query=python"
+    },
+    {
         "name": "QA automation engineer",
         "salary_min": null,
         "salary_max": null,
@@ -1160,20 +1244,6 @@
         "salary_max": null,
         "currency": "₽",
         "link": "https://kazan.hh.ru/vacancy/82583080?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Senior Back End Developer (Python)",
-        "salary_min": 350000,
-        "salary_max": 550000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/82596098?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Аналитик по работе в проектах импортозамещения оборудования и ПО",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/81615378?from=vacancy_search_list&query=python"
     },
     {
         "name": "Преподаватель программирования в онлайн школу",
@@ -1202,6 +1272,20 @@
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/81258041?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "DevOps инженер",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/82560843?from=vacancy_search_list&query=python"
+    },
+    {
+        "name": "Аналитик по работе в проектах импортозамещения оборудования и ПО",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/81615378?from=vacancy_search_list&query=python"
     },
     {
         "name": "ML-инженер",
@@ -1267,13 +1351,6 @@
         "link": "https://kazan.hh.ru/vacancy/82857247?from=vacancy_search_list&query=python"
     },
     {
-        "name": "DevOps Engineer/SRE",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/81040783?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "Build-инженер/программист",
         "salary_min": 125000,
         "salary_max": 210000,
@@ -1337,32 +1414,11 @@
         "link": "https://kazan.hh.ru/vacancy/82248342?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Full-Stack Разработчик (react\\node.js)",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/82500744?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "DevOps-специалист",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/82200179?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "DevOps инженер",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/82560843?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Менеджер по работе с клиентами / Awake-менеджер",
-        "salary_min": 55000,
-        "salary_max": 75000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/82309551?from=vacancy_search_list&query=python"
     },
     {
         "name": "DevOps-инженер (SberMomentum)",
@@ -1372,13 +1428,6 @@
         "link": "https://kazan.hh.ru/vacancy/82187611?from=vacancy_search_list&query=python"
     },
     {
-        "name": "Аналитик отдела продаж",
-        "salary_min": null,
-        "salary_max": 58000,
-        "currency": "₽",
-        "link": "https://kazan.hh.ru/vacancy/80243008?from=vacancy_search_list&query=python"
-    },
-    {
         "name": "QA-инженер (автоматизация)",
         "salary_min": null,
         "salary_max": 250000,
@@ -1386,18 +1435,18 @@
         "link": "https://kazan.hh.ru/vacancy/82198504?from=vacancy_search_list&query=python"
     },
     {
+        "name": "Full-Stack Разработчик (react\\node.js)",
+        "salary_min": null,
+        "salary_max": null,
+        "currency": null,
+        "link": "https://kazan.hh.ru/vacancy/82500744?from=vacancy_search_list&query=python"
+    },
+    {
         "name": "DevOps инженер",
         "salary_min": null,
         "salary_max": null,
         "currency": null,
         "link": "https://kazan.hh.ru/vacancy/81157955?from=vacancy_search_list&query=python"
-    },
-    {
-        "name": "Senior Python-разработчик",
-        "salary_min": null,
-        "salary_max": null,
-        "currency": null,
-        "link": "https://kazan.hh.ru/vacancy/80662974?from=vacancy_search_list&query=python"
     },
     {
         "name": "DevOps инженер (Команда Андромеда)",
