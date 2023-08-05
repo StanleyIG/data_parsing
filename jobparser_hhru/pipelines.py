@@ -57,7 +57,7 @@ class JobparserHhruPipeline:
         else:
             salary_min, salary_max, currency = None, None, None
 
-        return salary_min, salary_max, currency
+        return int(salary_min) if salary_min else None, int(salary_max) if salary_max else None, currency
 
     def save_to_mongodb(self, item):
         collection = self.mongobase['scrapy_hhru']
