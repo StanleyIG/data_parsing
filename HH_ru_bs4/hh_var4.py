@@ -38,7 +38,7 @@ class HHruParser:
         vacancies = []
         for i in block:
             sal_raw = i.findChild(
-                'span', {'class': 'bloko-header-section-3'})
+                'span', {'class': 'bloko-header-section-2'})
             if sal_raw:
                 sal_raw = sal_raw.text.replace('\u202f', '')
                 currency = re.findall(r'[₽$€]|[а-я]{3}|[A-Z]{3}', sal_raw)[0]
@@ -134,7 +134,7 @@ class HHruParser:
             return pd.DataFrame(data)
 
 
-hhru = HHruParser('python', 11)
-# pp(hhru.get_all_vacancies())
-hhru.write_json()
+hhru = HHruParser('python', 1)
+pp(hhru.get_all_vacancies())
+#hhru.write_json()
 # print(hhru.to_pandas())

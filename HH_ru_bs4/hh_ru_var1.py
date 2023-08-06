@@ -36,7 +36,7 @@ class HHruParser:
         vacancies = []
         for i in block:
             sal_raw = i.findChild(
-                'span', {'class': 'bloko-header-section-3'})
+                'span', {'class': 'bloko-header-section-2'})
             if sal_raw:
                 sal_raw = sal_raw.text.replace('\u202f', '')
                 currency = re.findall(r'[₽$€]|[а-я]{3}|[A-Z]{3}', sal_raw)[0]
