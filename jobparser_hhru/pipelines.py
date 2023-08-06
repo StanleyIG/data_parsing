@@ -29,30 +29,12 @@ class JobparserHhruPipeline:
         if salary:
             match_salary = ''.join(salary).replace('\xa0', '').split()
             is_digit = [int(x) for x in match_salary if x.isdigit()]
-            taxes = ('вычета', 'налогов')
-            hands = ('на', 'руки')
-            is_digit_min = str(min(is_digit))
-            is_digit_max = str(max(is_digit))
-            currency = re.findall(
-                r'[₽$€]|[а-я]{3}|[A-Z]{3}', ''.join(match_salary))[0]
-            salary_min, salary_max = None, None
-            match match_salary:
-                case['от', is_digit_min, currency, 'до', *taxes]:
-                    salary_min, salary_max = is_digit_min, None
-                case['до', is_digit_max, currency, 'до', *taxes]:
-                    salary_min, salary_max = None, is_digit_max
-                case['от', is_digit_min, 'до', is_digit_max, currency, 'до', *taxes]:
-                    salary_min, salary_max = is_digit_min, is_digit_max
-                case['от', is_digit_min, 'до', is_digit_max, currency]:
-                    salary_min, salary_max = is_digit_min, is_digit_max
-                case[is_digit_min, '-', is_digit_max]:
-                    salary_min, salary_max = is_digit_min, is_digit_max
-                case['от', is_digit_min, 'до', is_digit_max, currency, *hands]:
-                    salary_min, salary_max = is_digit_min, is_digit_max
-                case['от', is_digit_min, currency, *hands]:
-                    salary_min, salary_max = is_digit_min, None
-                case['до', is_digit_max, currency, *hands]:
-                    salary_min, salary_max = None, is_digit_max
+            if len(is_digit) < 2 and 'от' in match_salary:
+                salary_min, salary_max, currency = match_salary[1], None, match_salary[2]
+            elif len(is_digit) < 2 and 'до' in match_salary:
+                salary_min, salary_max, currency = None, match_salary[1], match_salary[2]
+            elif len(is_digit) > 1 and 'от' in match_salary and 'до' in match_salary:
+                salary_min, salary_max, currency = match_salary[1], match_salary[3], match_salary[4]
 
         else:
             salary_min, salary_max, currency = None, None, None
