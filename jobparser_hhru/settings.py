@@ -12,6 +12,8 @@ BOT_NAME = "jobparser_hhru"
 SPIDER_MODULES = ["jobparser_hhru.spiders"]
 NEWSPIDER_MODULE = "jobparser_hhru.spiders"
 
+IMAGES_STORE = 'img'
+
 LOG_ENABLED = True
 LOG_LEVEL = "DEBUG"
 # LOG_FILE = "scrapy_framework/log.txt" # если нужно записать логи в файл
@@ -28,7 +30,7 @@ CONCURRENT_REQUESTS = 16
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 0.5
+DOWNLOAD_DELAY = 0.1
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
@@ -66,7 +68,9 @@ COOKIES_ENABLED = False
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    "jobparser_hhru.pipelines.JobparserHhruPipeline": 300,
+    #"jobparser_hhru.pipelines.JobparserHhruPipeline": 100,
+    "jobparser_hhru.pipelines.CastoramaGoodsPipeline": 300,
+    "jobparser_hhru.pipelines.CastoramaGoodsPipelineImage": 200,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
